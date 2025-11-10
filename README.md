@@ -27,3 +27,8 @@ Predict which bank customers are likely to leave (churn) using demographic and a
   - Dataset lacks behavioral/transactional features
   - Recall for churners can be further improved
   - Future work: Advanced models, hyperparameter tuning, oversampling, and feature engineering
+
+## Author
+- Rimsha Iram
+- [Check Portfolio](https://www.datascienceportfol.io/rimshairamanalytics)
+- Let’s connect on [LinkedIn](https://www.linkedin.com/in/rimsha-iram-analytics)
